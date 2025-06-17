@@ -1,0 +1,12 @@
+Colpo sparato! Verticale: 10.000000, Orizzontale: 20.000000 X: 327.783936, Y: 119.303589
+Colpo sparato! Verticale: 20.000000, Orizzontale: 4.000000 X: 653.970947, Y: 45.730103
+
+BERSAGLIO COLPITO!
+
+Colpo sparato! Verticale: 3.000000, Orizzontale: 3.000000 X: 106.460663, Y: 5.579367
+Colpo sparato! Verticale: 3.000000, Orizzontale: 3.000000 X: 106.460663, Y: 5.579367
+Colpo sparato! Verticale: 3.000000, Orizzontale: 3.000000 X: 106.460663, Y: 5.579367
+Colpo sparato! Verticale: 3.000000, Orizzontale: 3.000000 X: 106.460663, Y: 5.579367
+Colpo sparato! Verticale: 3.000000, Orizzontale: 3.000000 X: 106.460663, Y: 5.579367
+
+Game over! Hai raggiunto il livello 2.
